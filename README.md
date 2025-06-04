@@ -8,4 +8,4 @@ It supports:
 - Staff-only inventory modification
 - Input validation and loops
 
-[Click here to view the py file](www.google.com)
+[Click here to view the py file](https://github.com/JayaraniArunachalam/Inventory-Management-using-List-sets-dictionary-in-python/blob/main/Day3%20inventory%20Management.py)
